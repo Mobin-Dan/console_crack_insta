@@ -1,15 +1,16 @@
 import os
 z='\033[92m'
 a='\033[0m'
+N='\033[91m'
 os.system("toilet mobin_dan_console"+z)
-os.system("figlet YouTuBe"+a)
-print"https://www.youtube.com/channel/UCrts8wi8GCzrMXDn9BldMTw"+a
+os.system("figlet YouTuBe" +a)
+print"https://www.youtube.com/channel/UCrts8wi8GCzrMXDn9BldMTw"+N
 
 print"show  for show"
 f=raw_input("mobin_dan==>"+z)
 if f=="show":
 	
-	print"crack insta"+a
+	print"crack insta"+N
 	print"phishing insta"+z
 	print"proxy_combo_passlist"+a
 x=raw_input("mobin_dan==>"+z)
