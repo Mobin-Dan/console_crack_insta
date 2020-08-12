@@ -2,6 +2,9 @@ import os
 z='\033[92m'
 a='\033[0m'
 N='\033[91m'
+print"coding"
+print"by"
+print"mobin_dan"
 os.system("toilet mobin_dan_console"+z)
 os.system("figlet YouTuBe" +a)
 print"https://www.youtube.com/channel/UCrts8wi8GCzrMXDn9BldMTw"+N
