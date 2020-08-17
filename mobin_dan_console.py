@@ -2,10 +2,12 @@ import os
 z='\033[92m'
 a='\033[0m'
 N='\033[91m'
+print N
 print"coding"
 print"by"
 print"mobin_dan"
-os.system("toilet mobin_dan_console"+z)
+print z
+os.system(""cowsay -f eyes mobin_dan""+z)
 os.system("figlet YouTuBe" +a)
 print"https://www.youtube.com/channel/UCrts8wi8GCzrMXDn9BldMTw"+N
 
