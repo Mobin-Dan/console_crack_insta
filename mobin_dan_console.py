@@ -7,7 +7,7 @@ print"coding"
 print"by"
 print"mobin_dan"
 print z
-os.system(""cowsay -f eyes mobin_dan""+z)
+os.system("cowsay -f eyes mobin_dan"+z)
 os.system("figlet YouTuBe" +a)
 print"https://www.youtube.com/channel/UCrts8wi8GCzrMXDn9BldMTw"+N
 
